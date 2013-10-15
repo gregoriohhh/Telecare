@@ -1,0 +1,8 @@
+alarmasalarma:
+    resource: "@alarmasalarmaBundle/Resources/config/routing.yml"
+    prefix:   /
+
+persistenciapersistencia:
+    resource: "@PersistenciapersistenciaBundle/Resources/config/routing.yml"
+    prefix:   /
+

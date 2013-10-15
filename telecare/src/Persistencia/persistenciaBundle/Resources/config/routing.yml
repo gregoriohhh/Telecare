@@ -1,0 +1,6 @@
+persistenciapersistencia_homepage:
+    pattern:  /hello/{name}
+    defaults: { _controller: PersistenciapersistenciaBundle:Default:index }
+Persistencia:
+    resource: "@PersistenciapersistenciaBundle/Controller/"
+    prefix:   /

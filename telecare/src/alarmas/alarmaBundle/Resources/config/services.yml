@@ -1,0 +1,7 @@
+parameters:
+#    alarmasalarma.example.class: alarmas\alarmaBundle\Example
+
+services:
+#    alarmasalarma.example:
+#        class: %alarmasalarma.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]
